@@ -1,0 +1,7 @@
+.out-class {
+  color: var(--out-font-color);
+}
+
+.inline-class {
+  color: var(--inline-font-color);
+}
